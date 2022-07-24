@@ -3,4 +3,4 @@
     * Numpy
     * Pandas
     * Matplotlib
-    
+    * Seaborn
